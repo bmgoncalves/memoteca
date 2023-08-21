@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "1 - Criando banco mocado",
+      "autoria": "Bruno",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "2 - Criando banco mocado",
+      "autoria": "Maria",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "3 - Criando banco mocado",
+      "autoria": "Pedro",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Pensamento criado pelo CRUD",
+      "autoria": "Bruno",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Criando redirecionamento",
+      "autoria": "Bruno",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
