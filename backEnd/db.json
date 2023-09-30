@@ -4,43 +4,71 @@
       "id": 1,
       "conteudo": "1 - Criando banco mocado",
       "autoria": "Bruno",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
-      "conteudo": "2 - Criando banco mocado",
+      "conteudo": "Analisando banco NOSQL",
       "autoria": "Maria",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
-      "conteudo": "3 - Criando banco mocado",
+      "conteudo": "Angular é uma buguio muito doido!! ",
       "autoria": "Pedro",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Pensamento criado pelo CRUD",
       "autoria": "Bruno",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Criando redirecionamento",
       "autoria": "Bruno",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 5
     },
     {
       "id": 6,
       "conteudo": "sASsASas",
       "autoria": "asASasAS",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "asdasdasdadsa",
       "autoria": "asdasdasda",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 7
+    },
+    {
+      "conteudo": "A vida adulta é um saco! ",
+      "autoria": "Eu mesmo",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Não adianta chorar pelo leite derramado",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "Há males que vem para bem",
+      "autoria": "Faustão",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 10
     }
   ]
 }
